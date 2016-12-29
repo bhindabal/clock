@@ -1,0 +1,14 @@
+
+#divSnow {
+	height: 760px;
+	width: 100%;
+	filter: blur(0.7px);
+	color: white;
+	text-align: center;
+	font-size: 800%;
+	text-shadow: 4px 4px 5px black;
+	padding-top: 20%;
+	opacity: 0.95;
+	background-size: cover;
+	background: url(http://www.cedarhousesporthotel.com/wp-content/uploads/2014/01/winter_header_3.jpg) no-repeat center center fixed
+}
